@@ -31,7 +31,8 @@ const Home = () => {
       </div>
 
       {/* Agendamento */}
-      <Card className="mt-6">
+      <h2 className="uppercase text-gray-400 font-bold text-xs mt-6 mb-3">Agendamento</h2>
+      <Card>
         <CardContent className="flex justify-between p-0">
           {/* Esquerda */}
           <div className="flex flex-col gap-2 py-5 pl-5">
